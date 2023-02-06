@@ -1,0 +1,100 @@
+C:\Users\mka\Desktop\pos\POS\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos04\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos04\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos04\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos04\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos04\obj\Debug\RdlCompile.cache
+C:\Users\mka\Desktop\pos04\obj\Debug\RdlCompile.compiled
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos05\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos05\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos05\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos05\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos05\obj\Debug\RdlCompile.cache
+C:\Users\mka\Desktop\pos05\obj\Debug\RdlCompile.compiled
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Debug\POS.exe.config
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.exe
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.xml
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.pdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.AddItem.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.ChangePassword.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.EditItem.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.MainWindow.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.PasswordPicker.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.Resources.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\RdlCompile.cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\RdlCompile.compiled
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Debug\db.accdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Debug\POS.exe
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Debug\POS.pdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Debug\POS.xml

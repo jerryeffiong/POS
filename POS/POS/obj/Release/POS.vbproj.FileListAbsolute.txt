@@ -1,0 +1,52 @@
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Release\db.accdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Release\POS.exe.config
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Release\POS.exe
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Release\POS.pdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\bin\Release\POS.xml
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.AddItem.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.ChangePassword.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.EditItem.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.MainWindow.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.PasswordPicker.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.Resources.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.vbproj.GenerateResource.Cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\RdlCompile.cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\RdlCompile.compiled
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.exe
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.xml
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.pdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\pos05\pos05\obj\Release\POS.vbprojResolveAssemblyReference.cache
+C:\Users\jerrysdsantos\Desktop\Blessing POS\POS\POS\bin\Release\POS.exe.config
+C:\Users\jerrysdsantos\Desktop\Blessing POS\POS\POS\obj\Release\POS.exe
+C:\Users\jerrysdsantos\Desktop\Blessing POS\POS\POS\obj\Release\POS.xml
+C:\Users\jerrysdsantos\Desktop\Blessing POS\POS\POS\obj\Release\POS.pdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\POS.exe.config
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.exe
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.xml
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.pdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\db.accdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\POS.exe
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\POS.pdb
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\POS.xml
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.vbprojResolveAssemblyReference.cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.AddItem.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.ChangePassword.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.EditItem.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.MainWindow.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.PasswordPicker.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.Resources.resources
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.vbproj.GenerateResource.Cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\RdlCompile.cache
+C:\Users\jerrysdsantos\Desktop\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\RdlCompile.compiled
+C:\Users\jerrysdsantos\Desktop\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\POS.exe.config
+C:\Users\jerrysdsantos\Desktop\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.exe
+C:\Users\jerrysdsantos\Desktop\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.xml
+C:\Users\jerrysdsantos\Desktop\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.pdb
+C:\Users\jerrysdsantos\Desktop\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\POS.exe.config
+C:\Users\jerrysdsantos\Desktop\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.exe
+C:\Users\jerrysdsantos\Desktop\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.xml
+C:\Users\jerrysdsantos\Desktop\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.pdb
+D:\DESKTOP\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\bin\Release\POS.exe.config
+D:\DESKTOP\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.exe
+D:\DESKTOP\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.xml
+D:\DESKTOP\WORKing\VB Project\BLESSING Pj\Point of Sale Managment System\Blessing POS\POS\obj\Release\POS.pdb
